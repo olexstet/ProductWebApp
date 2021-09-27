@@ -1,0 +1,12 @@
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/WebSocketConfiguration.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/HomeController.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/SecurityConfiguration.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/EventHandler.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/ReactAndSpringDataRestApplication.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/Employee.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/Manager.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/SpringDataJpaUserDetailsService.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/SpringDataRestEventHandler.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/EmployeeRepository.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/ManagerRepository.java
+/Users/olexandr/Desktop/Product/WebApp/src/main/java/com/greglturnquist/payroll/DatabaseLoader.java
